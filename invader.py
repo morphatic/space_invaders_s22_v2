@@ -1,0 +1,3 @@
+"""
+Implements an individual invader
+"""
