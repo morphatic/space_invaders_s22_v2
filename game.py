@@ -34,3 +34,4 @@ class Game:
         # center the rectangle for the title text
         title_rect = title.get_rect(center=self.screen.get_rect().center)
         self.screen.blit(title, title_rect)
+        pygame.display.update()
