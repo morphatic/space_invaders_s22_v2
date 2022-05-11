@@ -1,5 +1,5 @@
 """
-Primarily used to launch the program
+Primarily used to launch the program.
 """
 import pygame
 from pygame.font import Font
